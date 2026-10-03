@@ -19,7 +19,7 @@ Olist has raw transactional data spread across multiple tables covering sales, c
 ## Dataset
 - **Source:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle)
 - **Period covered:** September 2016 to October 2018
-- **Scope:** 6 of the 9 original CSV files were used as the project's core tables (see *Data Limitations* below for the two that were excluded, and why)
+- **Scope:** 7 of the 9 original CSV files were used as the project's core tables (see *Data Limitations* below for the two that were excluded, and why)
 
 | Table | Description |
 |---|---|
