@@ -86,7 +86,7 @@ Some categories are driven by a single "hero product" (e.g. one Furniture & Deco
 Growth was volatile in 2016–2017 (small base), spiked in November 2017, and stabilized into a mature ±15% monthly range through 2018.
 
 **9. Which customers spend above average?**
-A small set of customers spend well above the average order value, up to ₹13,440 — clear high-value customer candidates for loyalty programs.
+A small set of customers spend well above the average order value, up to R$13,440 — clear high-value customer candidates for loyalty programs.
 
 **10. How many customers are repeat buyers?**
 Only 2,997 customers (about 3% of the customer base) placed more than one order — a significant customer retention gap.
@@ -95,7 +95,7 @@ Only 2,997 customers (about 3% of the customer base) placed more than one order 
 Average delivery time is 12.5 days; 8.11% of delivered orders arrive later than the estimated delivery date.
 
 **12. How do customers segment by spending?**
-High Spenders (≥₹500) are only ~4% of customers but spend 13x more on average (₹930.58) than Low Spenders (₹70.06, ~74% of customers).
+High Spenders (≥R$500) are only ~4% of customers but spend 13x more on average (R$930.58) than Low Spenders (R$70.06, ~74% of customers).
 
 ## Recommendations
 - Focus marketing and logistics investment on the SP, RJ, and MG regions, which drive the majority of the customer base
